@@ -1,0 +1,125 @@
+*{    color: #fffdd0;
+
+    text-align: left;}
+
+body {
+    text-decoration: none;
+    font-family: 'Fira Mono', monospace;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+}
+
+.name {
+    font-size: 49px;
+    margin-left: 3rem;
+    font-family: 'Fira Mono', monospace;
+
+}
+
+.text{
+
+}
+
+nav {
+    position: absolute;
+    top: 50px;
+    right: 50px;
+}
+
+
+nav li {
+    margin-left: 30px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: normal;
+}
+h1{
+    font-weight: normal;
+}
+
+header {
+    background-color: #222;
+    color: #fff;
+    height: 100vh;
+    position: relative;
+}
+
+.header-content {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+    padding-top: 20%;
+
+}
+
+.header-content h1 {
+    font-family: 'Fira Mono', monospace;
+    font-size: 64px;
+    margin: 0;
+    color:#fdf4c1;
+
+}
+
+
+
+
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+#contact {
+    background-color: #f2f2f2;
+    padding: 50px;
+    text-align: center;
+    color: #333;
+}
+
+.contact-content {
+    max-width: 600px;
+    margin: auto;
+}
+
+.contact-content h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px;
+    margin: 0 0 30px;
+    line-height: 1.2;
+
+}
+
+/*@media screen and (max-width: 768px) {*/
+/*    body {*/
+/*        font-size: 16px;*/
+/*    }*/
+/*    header {*/
+/*        height: 50vh;*/
+/*    }*/
+/*    .header-content h1 {*/
+/*        font-size: 48px;*/
+/*    }*/
+/*    .header-content h2 {*/
+/*        font-size: 24px;*/
+/*    }*/
+/*    .header-content p {*/
+/*        font-size: 16px;*/
+/*    }*/
+/*    #contact {*/
+/*        padding: 30px;*/
+/*    }*/
+/*    .contact-content h2 {*/
+/*        font-size: 24px;*/
+/*    }*/
+/*}*/
+leticiadengo03
